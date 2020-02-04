@@ -419,6 +419,178 @@
    'c:\\users\\manoj '
    'nilanga\\appdata\\local\\programs\\python\\python37\\lib\\runpy.py',
    'PYMODULE'),
+  ('readline',
+   'c:\\users\\manoj '
+   'nilanga\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\readline.py',
+   'PYMODULE'),
+  ('pyreadline.console',
+   'c:\\users\\manoj '
+   'nilanga\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\pyreadline\\console\\__init__.py',
+   'PYMODULE'),
+  ('pyreadline.console.console',
+   'c:\\users\\manoj '
+   'nilanga\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\pyreadline\\console\\console.py',
+   'PYMODULE'),
+  ('pyreadline.console.event',
+   'c:\\users\\manoj '
+   'nilanga\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\pyreadline\\console\\event.py',
+   'PYMODULE'),
+  ('ctypes.wintypes',
+   'c:\\users\\manoj '
+   'nilanga\\appdata\\local\\programs\\python\\python37\\lib\\ctypes\\wintypes.py',
+   'PYMODULE'),
+  ('ctypes',
+   'c:\\users\\manoj '
+   'nilanga\\appdata\\local\\programs\\python\\python37\\lib\\ctypes\\__init__.py',
+   'PYMODULE'),
+  ('ctypes._endian',
+   'c:\\users\\manoj '
+   'nilanga\\appdata\\local\\programs\\python\\python37\\lib\\ctypes\\_endian.py',
+   'PYMODULE'),
+  ('ctypes.util',
+   'c:\\users\\manoj '
+   'nilanga\\appdata\\local\\programs\\python\\python37\\lib\\ctypes\\util.py',
+   'PYMODULE'),
+  ('ctypes._aix',
+   'c:\\users\\manoj '
+   'nilanga\\appdata\\local\\programs\\python\\python37\\lib\\ctypes\\_aix.py',
+   'PYMODULE'),
+  ('ctypes.macholib.dyld',
+   'c:\\users\\manoj '
+   'nilanga\\appdata\\local\\programs\\python\\python37\\lib\\ctypes\\macholib\\dyld.py',
+   'PYMODULE'),
+  ('ctypes.macholib',
+   'c:\\users\\manoj '
+   'nilanga\\appdata\\local\\programs\\python\\python37\\lib\\ctypes\\macholib\\__init__.py',
+   'PYMODULE'),
+  ('ctypes.macholib.dylib',
+   'c:\\users\\manoj '
+   'nilanga\\appdata\\local\\programs\\python\\python37\\lib\\ctypes\\macholib\\dylib.py',
+   'PYMODULE'),
+  ('ctypes.macholib.framework',
+   'c:\\users\\manoj '
+   'nilanga\\appdata\\local\\programs\\python\\python37\\lib\\ctypes\\macholib\\framework.py',
+   'PYMODULE'),
+  ('pyreadline.console.ansi',
+   'c:\\users\\manoj '
+   'nilanga\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\pyreadline\\console\\ansi.py',
+   'PYMODULE'),
+  ('pyreadline.keysyms',
+   'c:\\users\\manoj '
+   'nilanga\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\pyreadline\\keysyms\\__init__.py',
+   'PYMODULE'),
+  ('pyreadline.keysyms.keysyms',
+   'c:\\users\\manoj '
+   'nilanga\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\pyreadline\\keysyms\\keysyms.py',
+   'PYMODULE'),
+  ('pyreadline.keysyms.common',
+   'c:\\users\\manoj '
+   'nilanga\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\pyreadline\\keysyms\\common.py',
+   'PYMODULE'),
+  ('pyreadline.keysyms.ironpython_keysyms',
+   'c:\\users\\manoj '
+   'nilanga\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\pyreadline\\keysyms\\ironpython_keysyms.py',
+   'PYMODULE'),
+  ('pyreadline.keysyms.winconstants',
+   'c:\\users\\manoj '
+   'nilanga\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\pyreadline\\keysyms\\winconstants.py',
+   'PYMODULE'),
+  ('pyreadline.logger',
+   'c:\\users\\manoj '
+   'nilanga\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\pyreadline\\logger.py',
+   'PYMODULE'),
+  ('logging.handlers',
+   'c:\\users\\manoj '
+   'nilanga\\appdata\\local\\programs\\python\\python37\\lib\\logging\\handlers.py',
+   'PYMODULE'),
+  ('smtplib',
+   'c:\\users\\manoj '
+   'nilanga\\appdata\\local\\programs\\python\\python37\\lib\\smtplib.py',
+   'PYMODULE'),
+  ('queue',
+   'c:\\users\\manoj '
+   'nilanga\\appdata\\local\\programs\\python\\python37\\lib\\queue.py',
+   'PYMODULE'),
+  ('pyreadline.unicode_helper',
+   'c:\\users\\manoj '
+   'nilanga\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\pyreadline\\unicode_helper.py',
+   'PYMODULE'),
+  ('pyreadline.py3k_compat',
+   'c:\\users\\manoj '
+   'nilanga\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\pyreadline\\py3k_compat.py',
+   'PYMODULE'),
+  ('pyreadline.console.ironpython_console',
+   'c:\\users\\manoj '
+   'nilanga\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\pyreadline\\console\\ironpython_console.py',
+   'PYMODULE'),
+  ('pyreadline',
+   'c:\\users\\manoj '
+   'nilanga\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\pyreadline\\__init__.py',
+   'PYMODULE'),
+  ('pyreadline.release',
+   'c:\\users\\manoj '
+   'nilanga\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\pyreadline\\release.py',
+   'PYMODULE'),
+  ('pyreadline.modes',
+   'c:\\users\\manoj '
+   'nilanga\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\pyreadline\\modes\\__init__.py',
+   'PYMODULE'),
+  ('pyreadline.modes.vi',
+   'c:\\users\\manoj '
+   'nilanga\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\pyreadline\\modes\\vi.py',
+   'PYMODULE'),
+  ('pyreadline.lineeditor.history',
+   'c:\\users\\manoj '
+   'nilanga\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\pyreadline\\lineeditor\\history.py',
+   'PYMODULE'),
+  ('pyreadline.lineeditor.lineobj',
+   'c:\\users\\manoj '
+   'nilanga\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\pyreadline\\lineeditor\\lineobj.py',
+   'PYMODULE'),
+  ('pyreadline.lineeditor.wordmatcher',
+   'c:\\users\\manoj '
+   'nilanga\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\pyreadline\\lineeditor\\wordmatcher.py',
+   'PYMODULE'),
+  ('pyreadline.modes.notemacs',
+   'c:\\users\\manoj '
+   'nilanga\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\pyreadline\\modes\\notemacs.py',
+   'PYMODULE'),
+  ('pyreadline.modes.emacs',
+   'c:\\users\\manoj '
+   'nilanga\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\pyreadline\\modes\\emacs.py',
+   'PYMODULE'),
+  ('pyreadline.modes.basemode',
+   'c:\\users\\manoj '
+   'nilanga\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\pyreadline\\modes\\basemode.py',
+   'PYMODULE'),
+  ('pyreadline.error',
+   'c:\\users\\manoj '
+   'nilanga\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\pyreadline\\error.py',
+   'PYMODULE'),
+  ('pyreadline.lineeditor',
+   'c:\\users\\manoj '
+   'nilanga\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\pyreadline\\lineeditor\\__init__.py',
+   'PYMODULE'),
+  ('pyreadline.clipboard',
+   'c:\\users\\manoj '
+   'nilanga\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\pyreadline\\clipboard\\__init__.py',
+   'PYMODULE'),
+  ('pyreadline.clipboard.win32_clipboard',
+   'c:\\users\\manoj '
+   'nilanga\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\pyreadline\\clipboard\\win32_clipboard.py',
+   'PYMODULE'),
+  ('pyreadline.clipboard.no_clipboard',
+   'c:\\users\\manoj '
+   'nilanga\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\pyreadline\\clipboard\\no_clipboard.py',
+   'PYMODULE'),
+  ('pyreadline.clipboard.ironpython_clipboard',
+   'c:\\users\\manoj '
+   'nilanga\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\pyreadline\\clipboard\\ironpython_clipboard.py',
+   'PYMODULE'),
+  ('pyreadline.rlmain',
+   'c:\\users\\manoj '
+   'nilanga\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\pyreadline\\rlmain.py',
+   'PYMODULE'),
   ('glob',
    'c:\\users\\manoj '
    'nilanga\\appdata\\local\\programs\\python\\python37\\lib\\glob.py',
@@ -579,14 +751,6 @@
    'c:\\users\\manoj '
    'nilanga\\appdata\\local\\programs\\python\\python37\\lib\\multiprocessing\\heap.py',
    'PYMODULE'),
-  ('ctypes',
-   'c:\\users\\manoj '
-   'nilanga\\appdata\\local\\programs\\python\\python37\\lib\\ctypes\\__init__.py',
-   'PYMODULE'),
-  ('ctypes._endian',
-   'c:\\users\\manoj '
-   'nilanga\\appdata\\local\\programs\\python\\python37\\lib\\ctypes\\_endian.py',
-   'PYMODULE'),
   ('multiprocessing.pool',
    'c:\\users\\manoj '
    'nilanga\\appdata\\local\\programs\\python\\python37\\lib\\multiprocessing\\pool.py',
@@ -598,10 +762,6 @@
   ('multiprocessing.dummy.connection',
    'c:\\users\\manoj '
    'nilanga\\appdata\\local\\programs\\python\\python37\\lib\\multiprocessing\\dummy\\connection.py',
-   'PYMODULE'),
-  ('queue',
-   'c:\\users\\manoj '
-   'nilanga\\appdata\\local\\programs\\python\\python37\\lib\\queue.py',
    'PYMODULE'),
   ('multiprocessing.queues',
    'c:\\users\\manoj '
@@ -647,17 +807,33 @@
    'c:\\users\\manoj '
    'nilanga\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\pkg_resources\\__init__.py',
    'PYMODULE'),
-  ('pkg_resources._vendor.six',
+  ('pkg_resources._vendor.packaging.__about__',
    'c:\\users\\manoj '
-   'nilanga\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\pkg_resources\\_vendor\\six.py',
+   'nilanga\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\pkg_resources\\_vendor\\packaging\\__about__.py',
    'PYMODULE'),
-  ('pkg_resources._vendor.packaging.requirements',
+  ('pkg_resources._vendor.packaging.version',
    'c:\\users\\manoj '
-   'nilanga\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\pkg_resources\\_vendor\\packaging\\requirements.py',
+   'nilanga\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\pkg_resources\\_vendor\\packaging\\version.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.packaging',
+   'c:\\users\\manoj '
+   'nilanga\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\pkg_resources\\_vendor\\packaging\\__init__.py',
    'PYMODULE'),
   ('pkg_resources._vendor.packaging._compat',
    'c:\\users\\manoj '
    'nilanga\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\pkg_resources\\_vendor\\packaging\\_compat.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor',
+   'c:\\users\\manoj '
+   'nilanga\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\pkg_resources\\_vendor\\__init__.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.packaging.markers',
+   'c:\\users\\manoj '
+   'nilanga\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\pkg_resources\\_vendor\\packaging\\markers.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.appdirs',
+   'c:\\users\\manoj '
+   'nilanga\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\pkg_resources\\_vendor\\appdirs.py',
    'PYMODULE'),
   ('pkg_resources._vendor.pyparsing',
    'c:\\users\\manoj '
@@ -667,65 +843,25 @@
    'c:\\users\\manoj '
    'nilanga\\appdata\\local\\programs\\python\\python37\\lib\\uuid.py',
    'PYMODULE'),
-  ('ctypes.util',
+  ('pkg_resources._vendor.packaging.utils',
    'c:\\users\\manoj '
-   'nilanga\\appdata\\local\\programs\\python\\python37\\lib\\ctypes\\util.py',
-   'PYMODULE'),
-  ('ctypes._aix',
-   'c:\\users\\manoj '
-   'nilanga\\appdata\\local\\programs\\python\\python37\\lib\\ctypes\\_aix.py',
-   'PYMODULE'),
-  ('ctypes.macholib.dyld',
-   'c:\\users\\manoj '
-   'nilanga\\appdata\\local\\programs\\python\\python37\\lib\\ctypes\\macholib\\dyld.py',
-   'PYMODULE'),
-  ('ctypes.macholib',
-   'c:\\users\\manoj '
-   'nilanga\\appdata\\local\\programs\\python\\python37\\lib\\ctypes\\macholib\\__init__.py',
-   'PYMODULE'),
-  ('ctypes.macholib.dylib',
-   'c:\\users\\manoj '
-   'nilanga\\appdata\\local\\programs\\python\\python37\\lib\\ctypes\\macholib\\dylib.py',
-   'PYMODULE'),
-  ('ctypes.macholib.framework',
-   'c:\\users\\manoj '
-   'nilanga\\appdata\\local\\programs\\python\\python37\\lib\\ctypes\\macholib\\framework.py',
-   'PYMODULE'),
-  ('pkg_resources._vendor',
-   'c:\\users\\manoj '
-   'nilanga\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\pkg_resources\\_vendor\\__init__.py',
+   'nilanga\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\pkg_resources\\_vendor\\packaging\\utils.py',
    'PYMODULE'),
   ('pkg_resources._vendor.packaging.specifiers',
    'c:\\users\\manoj '
    'nilanga\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\pkg_resources\\_vendor\\packaging\\specifiers.py',
    'PYMODULE'),
-  ('pkg_resources._vendor.appdirs',
+  ('pkg_resources._vendor.six',
    'c:\\users\\manoj '
-   'nilanga\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\pkg_resources\\_vendor\\appdirs.py',
-   'PYMODULE'),
-  ('pkg_resources._vendor.packaging.version',
-   'c:\\users\\manoj '
-   'nilanga\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\pkg_resources\\_vendor\\packaging\\version.py',
-   'PYMODULE'),
-  ('pkg_resources._vendor.packaging.utils',
-   'c:\\users\\manoj '
-   'nilanga\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\pkg_resources\\_vendor\\packaging\\utils.py',
-   'PYMODULE'),
-  ('pkg_resources._vendor.packaging',
-   'c:\\users\\manoj '
-   'nilanga\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\pkg_resources\\_vendor\\packaging\\__init__.py',
+   'nilanga\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\pkg_resources\\_vendor\\six.py',
    'PYMODULE'),
   ('pkg_resources._vendor.packaging._structures',
    'c:\\users\\manoj '
    'nilanga\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\pkg_resources\\_vendor\\packaging\\_structures.py',
    'PYMODULE'),
-  ('pkg_resources._vendor.packaging.markers',
+  ('pkg_resources._vendor.packaging.requirements',
    'c:\\users\\manoj '
-   'nilanga\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\pkg_resources\\_vendor\\packaging\\markers.py',
-   'PYMODULE'),
-  ('pkg_resources._vendor.packaging.__about__',
-   'c:\\users\\manoj '
-   'nilanga\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\pkg_resources\\_vendor\\packaging\\__about__.py',
+   'nilanga\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\pkg_resources\\_vendor\\packaging\\requirements.py',
    'PYMODULE'),
   ('sysconfig',
    'c:\\users\\manoj '
@@ -791,21 +927,21 @@
    'c:\\users\\manoj '
    'nilanga\\appdata\\local\\programs\\python\\python37\\lib\\imp.py',
    'PYMODULE'),
+  ('tracemalloc',
+   'c:\\users\\manoj '
+   'nilanga\\appdata\\local\\programs\\python\\python37\\lib\\tracemalloc.py',
+   'PYMODULE'),
   ('_py_abc',
    'c:\\users\\manoj '
    'nilanga\\appdata\\local\\programs\\python\\python37\\lib\\_py_abc.py',
-   'PYMODULE'),
-  ('stringprep',
-   'c:\\users\\manoj '
-   'nilanga\\appdata\\local\\programs\\python\\python37\\lib\\stringprep.py',
    'PYMODULE'),
   ('typing',
    'c:\\users\\manoj '
    'nilanga\\appdata\\local\\programs\\python\\python37\\lib\\typing.py',
    'PYMODULE'),
-  ('tracemalloc',
+  ('stringprep',
    'c:\\users\\manoj '
-   'nilanga\\appdata\\local\\programs\\python\\python37\\lib\\tracemalloc.py',
+   'nilanga\\appdata\\local\\programs\\python\\python37\\lib\\stringprep.py',
    'PYMODULE'),
   ('random',
    'c:\\users\\manoj '
@@ -847,101 +983,33 @@
    'c:\\users\\manoj '
    'nilanga\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\PIL\\Image.py',
    'PYMODULE'),
-  ('PIL.MpoImagePlugin',
+  ('PIL.WebPImagePlugin',
    'c:\\users\\manoj '
-   'nilanga\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\PIL\\MpoImagePlugin.py',
+   'nilanga\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\PIL\\WebPImagePlugin.py',
    'PYMODULE'),
   ('PIL.ImageFile',
    'c:\\users\\manoj '
    'nilanga\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\PIL\\ImageFile.py',
    'PYMODULE'),
-  ('PIL.XVThumbImagePlugin',
-   'c:\\users\\manoj '
-   'nilanga\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\PIL\\XVThumbImagePlugin.py',
-   'PYMODULE'),
   ('PIL.TgaImagePlugin',
    'c:\\users\\manoj '
    'nilanga\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\PIL\\TgaImagePlugin.py',
    'PYMODULE'),
-  ('PIL.GribStubImagePlugin',
+  ('PIL.ImtImagePlugin',
    'c:\\users\\manoj '
-   'nilanga\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\PIL\\GribStubImagePlugin.py',
-   'PYMODULE'),
-  ('PIL.DdsImagePlugin',
-   'c:\\users\\manoj '
-   'nilanga\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\PIL\\DdsImagePlugin.py',
-   'PYMODULE'),
-  ('PIL.PsdImagePlugin',
-   'c:\\users\\manoj '
-   'nilanga\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\PIL\\PsdImagePlugin.py',
-   'PYMODULE'),
-  ('PIL.MspImagePlugin',
-   'c:\\users\\manoj '
-   'nilanga\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\PIL\\MspImagePlugin.py',
-   'PYMODULE'),
-  ('PIL.FliImagePlugin',
-   'c:\\users\\manoj '
-   'nilanga\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\PIL\\FliImagePlugin.py',
-   'PYMODULE'),
-  ('PIL.IptcImagePlugin',
-   'c:\\users\\manoj '
-   'nilanga\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\PIL\\IptcImagePlugin.py',
+   'nilanga\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\PIL\\ImtImagePlugin.py',
    'PYMODULE'),
   ('PIL.McIdasImagePlugin',
    'c:\\users\\manoj '
    'nilanga\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\PIL\\McIdasImagePlugin.py',
    'PYMODULE'),
-  ('PIL.WmfImagePlugin',
+  ('PIL.BufrStubImagePlugin',
    'c:\\users\\manoj '
-   'nilanga\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\PIL\\WmfImagePlugin.py',
-   'PYMODULE'),
-  ('PIL.FpxImagePlugin',
-   'c:\\users\\manoj '
-   'nilanga\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\PIL\\FpxImagePlugin.py',
-   'PYMODULE'),
-  ('PIL.XbmImagePlugin',
-   'c:\\users\\manoj '
-   'nilanga\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\PIL\\XbmImagePlugin.py',
-   'PYMODULE'),
-  ('PIL.FitsStubImagePlugin',
-   'c:\\users\\manoj '
-   'nilanga\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\PIL\\FitsStubImagePlugin.py',
-   'PYMODULE'),
-  ('PIL.SgiImagePlugin',
-   'c:\\users\\manoj '
-   'nilanga\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\PIL\\SgiImagePlugin.py',
-   'PYMODULE'),
-  ('PIL.Hdf5StubImagePlugin',
-   'c:\\users\\manoj '
-   'nilanga\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\PIL\\Hdf5StubImagePlugin.py',
-   'PYMODULE'),
-  ('PIL.PcxImagePlugin',
-   'c:\\users\\manoj '
-   'nilanga\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\PIL\\PcxImagePlugin.py',
-   'PYMODULE'),
-  ('PIL.PalmImagePlugin',
-   'c:\\users\\manoj '
-   'nilanga\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\PIL\\PalmImagePlugin.py',
-   'PYMODULE'),
-  ('PIL.PixarImagePlugin',
-   'c:\\users\\manoj '
-   'nilanga\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\PIL\\PixarImagePlugin.py',
-   'PYMODULE'),
-  ('PIL.BlpImagePlugin',
-   'c:\\users\\manoj '
-   'nilanga\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\PIL\\BlpImagePlugin.py',
+   'nilanga\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\PIL\\BufrStubImagePlugin.py',
    'PYMODULE'),
   ('PIL.IcoImagePlugin',
    'c:\\users\\manoj '
    'nilanga\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\PIL\\IcoImagePlugin.py',
-   'PYMODULE'),
-  ('PIL.DcxImagePlugin',
-   'c:\\users\\manoj '
-   'nilanga\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\PIL\\DcxImagePlugin.py',
-   'PYMODULE'),
-  ('PIL.FtexImagePlugin',
-   'c:\\users\\manoj '
-   'nilanga\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\PIL\\FtexImagePlugin.py',
    'PYMODULE'),
   ('PIL.SpiderImagePlugin',
    'c:\\users\\manoj '
@@ -951,53 +1019,85 @@
    'c:\\users\\manoj '
    'nilanga\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\PIL\\ImageTk.py',
    'PYMODULE'),
-  ('PIL.ImtImagePlugin',
+  ('PIL.FpxImagePlugin',
    'c:\\users\\manoj '
-   'nilanga\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\PIL\\ImtImagePlugin.py',
+   'nilanga\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\PIL\\FpxImagePlugin.py',
    'PYMODULE'),
-  ('PIL.WebPImagePlugin',
+  ('PIL.DdsImagePlugin',
    'c:\\users\\manoj '
-   'nilanga\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\PIL\\WebPImagePlugin.py',
+   'nilanga\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\PIL\\DdsImagePlugin.py',
    'PYMODULE'),
-  ('PIL.ImImagePlugin',
+  ('PIL.PcxImagePlugin',
    'c:\\users\\manoj '
-   'nilanga\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\PIL\\ImImagePlugin.py',
+   'nilanga\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\PIL\\PcxImagePlugin.py',
    'PYMODULE'),
-  ('PIL.IcnsImagePlugin',
+  ('PIL.MicImagePlugin',
    'c:\\users\\manoj '
-   'nilanga\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\PIL\\IcnsImagePlugin.py',
+   'nilanga\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\PIL\\MicImagePlugin.py',
    'PYMODULE'),
-  ('PIL.XpmImagePlugin',
+  ('PIL.FitsStubImagePlugin',
    'c:\\users\\manoj '
-   'nilanga\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\PIL\\XpmImagePlugin.py',
+   'nilanga\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\PIL\\FitsStubImagePlugin.py',
    'PYMODULE'),
-  ('PIL.BufrStubImagePlugin',
+  ('PIL.FliImagePlugin',
    'c:\\users\\manoj '
-   'nilanga\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\PIL\\BufrStubImagePlugin.py',
+   'nilanga\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\PIL\\FliImagePlugin.py',
    'PYMODULE'),
-  ('PIL.CurImagePlugin',
+  ('PIL.WmfImagePlugin',
    'c:\\users\\manoj '
-   'nilanga\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\PIL\\CurImagePlugin.py',
-   'PYMODULE'),
-  ('PIL.MpegImagePlugin',
-   'c:\\users\\manoj '
-   'nilanga\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\PIL\\MpegImagePlugin.py',
-   'PYMODULE'),
-  ('PIL.PcdImagePlugin',
-   'c:\\users\\manoj '
-   'nilanga\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\PIL\\PcdImagePlugin.py',
-   'PYMODULE'),
-  ('PIL.SunImagePlugin',
-   'c:\\users\\manoj '
-   'nilanga\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\PIL\\SunImagePlugin.py',
+   'nilanga\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\PIL\\WmfImagePlugin.py',
    'PYMODULE'),
   ('PIL.Jpeg2KImagePlugin',
    'c:\\users\\manoj '
    'nilanga\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\PIL\\Jpeg2KImagePlugin.py',
    'PYMODULE'),
+  ('PIL.GribStubImagePlugin',
+   'c:\\users\\manoj '
+   'nilanga\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\PIL\\GribStubImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.PsdImagePlugin',
+   'c:\\users\\manoj '
+   'nilanga\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\PIL\\PsdImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.DcxImagePlugin',
+   'c:\\users\\manoj '
+   'nilanga\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\PIL\\DcxImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.Hdf5StubImagePlugin',
+   'c:\\users\\manoj '
+   'nilanga\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\PIL\\Hdf5StubImagePlugin.py',
+   'PYMODULE'),
   ('PIL.GbrImagePlugin',
    'c:\\users\\manoj '
    'nilanga\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\PIL\\GbrImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.MspImagePlugin',
+   'c:\\users\\manoj '
+   'nilanga\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\PIL\\MspImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.MpegImagePlugin',
+   'c:\\users\\manoj '
+   'nilanga\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\PIL\\MpegImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.IptcImagePlugin',
+   'c:\\users\\manoj '
+   'nilanga\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\PIL\\IptcImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.EpsImagePlugin',
+   'c:\\users\\manoj '
+   'nilanga\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\PIL\\EpsImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.PcdImagePlugin',
+   'c:\\users\\manoj '
+   'nilanga\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\PIL\\PcdImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.ImImagePlugin',
+   'c:\\users\\manoj '
+   'nilanga\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\PIL\\ImImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.SgiImagePlugin',
+   'c:\\users\\manoj '
+   'nilanga\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\PIL\\SgiImagePlugin.py',
    'PYMODULE'),
   ('PIL.PdfImagePlugin',
    'c:\\users\\manoj '
@@ -1011,13 +1111,49 @@
    'c:\\users\\manoj '
    'nilanga\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\PIL\\ImageSequence.py',
    'PYMODULE'),
-  ('PIL.MicImagePlugin',
+  ('PIL.BlpImagePlugin',
    'c:\\users\\manoj '
-   'nilanga\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\PIL\\MicImagePlugin.py',
+   'nilanga\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\PIL\\BlpImagePlugin.py',
    'PYMODULE'),
-  ('PIL.EpsImagePlugin',
+  ('PIL.MpoImagePlugin',
    'c:\\users\\manoj '
-   'nilanga\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\PIL\\EpsImagePlugin.py',
+   'nilanga\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\PIL\\MpoImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.CurImagePlugin',
+   'c:\\users\\manoj '
+   'nilanga\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\PIL\\CurImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.XpmImagePlugin',
+   'c:\\users\\manoj '
+   'nilanga\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\PIL\\XpmImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.FtexImagePlugin',
+   'c:\\users\\manoj '
+   'nilanga\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\PIL\\FtexImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.XbmImagePlugin',
+   'c:\\users\\manoj '
+   'nilanga\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\PIL\\XbmImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.PalmImagePlugin',
+   'c:\\users\\manoj '
+   'nilanga\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\PIL\\PalmImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.IcnsImagePlugin',
+   'c:\\users\\manoj '
+   'nilanga\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\PIL\\IcnsImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.PixarImagePlugin',
+   'c:\\users\\manoj '
+   'nilanga\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\PIL\\PixarImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.SunImagePlugin',
+   'c:\\users\\manoj '
+   'nilanga\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\PIL\\SunImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.XVThumbImagePlugin',
+   'c:\\users\\manoj '
+   'nilanga\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\PIL\\XVThumbImagePlugin.py',
    'PYMODULE'),
   ('PIL.TiffImagePlugin',
    'c:\\users\\manoj '
@@ -1235,21 +1371,21 @@
    'c:\\users\\manoj '
    'nilanga\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\setuptools\\__init__.py',
    'PYMODULE'),
+  ('setuptools._vendor.packaging',
+   'c:\\users\\manoj '
+   'nilanga\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\setuptools\\_vendor\\packaging\\__init__.py',
+   'PYMODULE'),
+  ('setuptools._vendor.six',
+   'c:\\users\\manoj '
+   'nilanga\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\setuptools\\_vendor\\six.py',
+   'PYMODULE'),
+  ('setuptools._vendor',
+   'c:\\users\\manoj '
+   'nilanga\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\setuptools\\_vendor\\__init__.py',
+   'PYMODULE'),
   ('setuptools._vendor.packaging.markers',
    'c:\\users\\manoj '
    'nilanga\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\setuptools\\_vendor\\packaging\\markers.py',
-   'PYMODULE'),
-  ('setuptools._vendor.packaging._structures',
-   'c:\\users\\manoj '
-   'nilanga\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\setuptools\\_vendor\\packaging\\_structures.py',
-   'PYMODULE'),
-  ('setuptools._vendor.packaging.utils',
-   'c:\\users\\manoj '
-   'nilanga\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\setuptools\\_vendor\\packaging\\utils.py',
-   'PYMODULE'),
-  ('setuptools._vendor.packaging.__about__',
-   'c:\\users\\manoj '
-   'nilanga\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\setuptools\\_vendor\\packaging\\__about__.py',
    'PYMODULE'),
   ('setuptools._vendor.pyparsing',
    'c:\\users\\manoj '
@@ -1259,29 +1395,29 @@
    'c:\\users\\manoj '
    'nilanga\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\setuptools\\_vendor\\packaging\\requirements.py',
    'PYMODULE'),
-  ('setuptools._vendor.packaging._compat',
+  ('setuptools._vendor.packaging.version',
    'c:\\users\\manoj '
-   'nilanga\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\setuptools\\_vendor\\packaging\\_compat.py',
+   'nilanga\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\setuptools\\_vendor\\packaging\\version.py',
    'PYMODULE'),
-  ('setuptools._vendor.packaging',
+  ('setuptools._vendor.packaging.utils',
    'c:\\users\\manoj '
-   'nilanga\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\setuptools\\_vendor\\packaging\\__init__.py',
+   'nilanga\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\setuptools\\_vendor\\packaging\\utils.py',
    'PYMODULE'),
   ('setuptools._vendor.packaging.specifiers',
    'c:\\users\\manoj '
    'nilanga\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\setuptools\\_vendor\\packaging\\specifiers.py',
    'PYMODULE'),
-  ('setuptools._vendor',
+  ('setuptools._vendor.packaging._structures',
    'c:\\users\\manoj '
-   'nilanga\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\setuptools\\_vendor\\__init__.py',
+   'nilanga\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\setuptools\\_vendor\\packaging\\_structures.py',
    'PYMODULE'),
-  ('setuptools._vendor.packaging.version',
+  ('setuptools._vendor.packaging._compat',
    'c:\\users\\manoj '
-   'nilanga\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\setuptools\\_vendor\\packaging\\version.py',
+   'nilanga\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\setuptools\\_vendor\\packaging\\_compat.py',
    'PYMODULE'),
-  ('setuptools._vendor.six',
+  ('setuptools._vendor.packaging.__about__',
    'c:\\users\\manoj '
-   'nilanga\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\setuptools\\_vendor\\six.py',
+   'nilanga\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\setuptools\\_vendor\\packaging\\__about__.py',
    'PYMODULE'),
   ('setuptools.msvc',
    'c:\\users\\manoj '
@@ -1727,6 +1863,182 @@
    'c:\\users\\manoj '
    'nilanga\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\numpy\\testing\\_private\\nosetester.py',
    'PYMODULE'),
+  ('scipy',
+   'c:\\users\\manoj '
+   'nilanga\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\scipy\\__init__.py',
+   'PYMODULE'),
+  ('scipy._lib',
+   'c:\\users\\manoj '
+   'nilanga\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\scipy\\_lib\\__init__.py',
+   'PYMODULE'),
+  ('scipy.fft',
+   'c:\\users\\manoj '
+   'nilanga\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\scipy\\fft\\__init__.py',
+   'PYMODULE'),
+  ('numpy.dual',
+   'c:\\users\\manoj '
+   'nilanga\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\numpy\\dual.py',
+   'PYMODULE'),
+  ('scipy.fft._pocketfft.helper',
+   'c:\\users\\manoj '
+   'nilanga\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\scipy\\fft\\_pocketfft\\helper.py',
+   'PYMODULE'),
+  ('scipy.fft._backend',
+   'c:\\users\\manoj '
+   'nilanga\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\scipy\\fft\\_backend.py',
+   'PYMODULE'),
+  ('scipy._lib.uarray',
+   'c:\\users\\manoj '
+   'nilanga\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\scipy\\_lib\\uarray.py',
+   'PYMODULE'),
+  ('scipy._lib._uarray',
+   'c:\\users\\manoj '
+   'nilanga\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\scipy\\_lib\\_uarray\\__init__.py',
+   'PYMODULE'),
+  ('scipy._lib._uarray._backend',
+   'c:\\users\\manoj '
+   'nilanga\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\scipy\\_lib\\_uarray\\_backend.py',
+   'PYMODULE'),
+  ('scipy._lib._pep440',
+   'c:\\users\\manoj '
+   'nilanga\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\scipy\\_lib\\_pep440.py',
+   'PYMODULE'),
+  ('scipy.fft._helper',
+   'c:\\users\\manoj '
+   'nilanga\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\scipy\\fft\\_helper.py',
+   'PYMODULE'),
+  ('scipy.fft._pocketfft',
+   'c:\\users\\manoj '
+   'nilanga\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\scipy\\fft\\_pocketfft\\__init__.py',
+   'PYMODULE'),
+  ('scipy.fft._pocketfft.realtransforms',
+   'c:\\users\\manoj '
+   'nilanga\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\scipy\\fft\\_pocketfft\\realtransforms.py',
+   'PYMODULE'),
+  ('scipy.fft._pocketfft.basic',
+   'c:\\users\\manoj '
+   'nilanga\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\scipy\\fft\\_pocketfft\\basic.py',
+   'PYMODULE'),
+  ('scipy.fft._realtransforms',
+   'c:\\users\\manoj '
+   'nilanga\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\scipy\\fft\\_realtransforms.py',
+   'PYMODULE'),
+  ('scipy.fft._basic',
+   'c:\\users\\manoj '
+   'nilanga\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\scipy\\fft\\_basic.py',
+   'PYMODULE'),
+  ('scipy._lib._testutils',
+   'c:\\users\\manoj '
+   'nilanga\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\scipy\\_lib\\_testutils.py',
+   'PYMODULE'),
+  ('scipy._lib._ccallback',
+   'c:\\users\\manoj '
+   'nilanga\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\scipy\\_lib\\_ccallback.py',
+   'PYMODULE'),
+  ('scipy._lib._version',
+   'c:\\users\\manoj '
+   'nilanga\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\scipy\\_lib\\_version.py',
+   'PYMODULE'),
+  ('scipy._lib.six',
+   'c:\\users\\manoj '
+   'nilanga\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\scipy\\_lib\\six.py',
+   'PYMODULE'),
+  ('scipy.version',
+   'c:\\users\\manoj '
+   'nilanga\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\scipy\\version.py',
+   'PYMODULE'),
+  ('scipy.__config__',
+   'c:\\users\\manoj '
+   'nilanga\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\scipy\\__config__.py',
+   'PYMODULE'),
+  ('scipy._distributor_init',
+   'c:\\users\\manoj '
+   'nilanga\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\scipy\\_distributor_init.py',
+   'PYMODULE'),
+  ('numpy.lib.scimath',
+   'c:\\users\\manoj '
+   'nilanga\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\numpy\\lib\\scimath.py',
+   'PYMODULE'),
+  ('numpy.lib.type_check',
+   'c:\\users\\manoj '
+   'nilanga\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\numpy\\lib\\type_check.py',
+   'PYMODULE'),
+  ('numpy.core.getlimits',
+   'c:\\users\\manoj '
+   'nilanga\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\numpy\\core\\getlimits.py',
+   'PYMODULE'),
+  ('numpy.core.umath',
+   'c:\\users\\manoj '
+   'nilanga\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\numpy\\core\\umath.py',
+   'PYMODULE'),
+  ('numpy.core.machar',
+   'c:\\users\\manoj '
+   'nilanga\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\numpy\\core\\machar.py',
+   'PYMODULE'),
+  ('numpy.core._ufunc_config',
+   'c:\\users\\manoj '
+   'nilanga\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\numpy\\core\\_ufunc_config.py',
+   'PYMODULE'),
+  ('numpy.core.fromnumeric',
+   'c:\\users\\manoj '
+   'nilanga\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\numpy\\core\\fromnumeric.py',
+   'PYMODULE'),
+  ('numpy.core._methods',
+   'c:\\users\\manoj '
+   'nilanga\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\numpy\\core\\_methods.py',
+   'PYMODULE'),
+  ('numpy.core._exceptions',
+   'c:\\users\\manoj '
+   'nilanga\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\numpy\\core\\_exceptions.py',
+   'PYMODULE'),
+  ('numpy.core._asarray',
+   'c:\\users\\manoj '
+   'nilanga\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\numpy\\core\\_asarray.py',
+   'PYMODULE'),
+  ('numpy.core.multiarray',
+   'c:\\users\\manoj '
+   'nilanga\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\numpy\\core\\multiarray.py',
+   'PYMODULE'),
+  ('numpy.lib.ufunclike',
+   'c:\\users\\manoj '
+   'nilanga\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\numpy\\lib\\ufunclike.py',
+   'PYMODULE'),
+  ('numpy.core.overrides',
+   'c:\\users\\manoj '
+   'nilanga\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\numpy\\core\\overrides.py',
+   'PYMODULE'),
+  ('numpy.compat._inspect',
+   'c:\\users\\manoj '
+   'nilanga\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\numpy\\compat\\_inspect.py',
+   'PYMODULE'),
+  ('numpy.core.numerictypes',
+   'c:\\users\\manoj '
+   'nilanga\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\numpy\\core\\numerictypes.py',
+   'PYMODULE'),
+  ('numpy.core._dtype',
+   'c:\\users\\manoj '
+   'nilanga\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\numpy\\core\\_dtype.py',
+   'PYMODULE'),
+  ('numpy.core._type_aliases',
+   'c:\\users\\manoj '
+   'nilanga\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\numpy\\core\\_type_aliases.py',
+   'PYMODULE'),
+  ('numpy.core._string_helpers',
+   'c:\\users\\manoj '
+   'nilanga\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\numpy\\core\\_string_helpers.py',
+   'PYMODULE'),
+  ('numpy.core.numeric',
+   'c:\\users\\manoj '
+   'nilanga\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\numpy\\core\\numeric.py',
+   'PYMODULE'),
+  ('numpy.core.arrayprint',
+   'c:\\users\\manoj '
+   'nilanga\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\numpy\\core\\arrayprint.py',
+   'PYMODULE'),
+  ('scipy._lib.deprecation',
+   'c:\\users\\manoj '
+   'nilanga\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\scipy\\_lib\\deprecation.py',
+   'PYMODULE'),
   ('numpy.testing._private.noseclasses',
    'c:\\users\\manoj '
    'nilanga\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\numpy\\testing\\_private\\noseclasses.py',
@@ -1747,54 +2059,6 @@
    'c:\\users\\manoj '
    'nilanga\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\numpy\\testing\\_private\\utils.py',
    'PYMODULE'),
-  ('numpy.core.fromnumeric',
-   'c:\\users\\manoj '
-   'nilanga\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\numpy\\core\\fromnumeric.py',
-   'PYMODULE'),
-  ('numpy.core._methods',
-   'c:\\users\\manoj '
-   'nilanga\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\numpy\\core\\_methods.py',
-   'PYMODULE'),
-  ('numpy.core._exceptions',
-   'c:\\users\\manoj '
-   'nilanga\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\numpy\\core\\_exceptions.py',
-   'PYMODULE'),
-  ('numpy.core._asarray',
-   'c:\\users\\manoj '
-   'nilanga\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\numpy\\core\\_asarray.py',
-   'PYMODULE'),
-  ('numpy.core.umath',
-   'c:\\users\\manoj '
-   'nilanga\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\numpy\\core\\umath.py',
-   'PYMODULE'),
-  ('numpy.core.overrides',
-   'c:\\users\\manoj '
-   'nilanga\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\numpy\\core\\overrides.py',
-   'PYMODULE'),
-  ('numpy.compat._inspect',
-   'c:\\users\\manoj '
-   'nilanga\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\numpy\\compat\\_inspect.py',
-   'PYMODULE'),
-  ('numpy.core.multiarray',
-   'c:\\users\\manoj '
-   'nilanga\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\numpy\\core\\multiarray.py',
-   'PYMODULE'),
-  ('numpy.core.numerictypes',
-   'c:\\users\\manoj '
-   'nilanga\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\numpy\\core\\numerictypes.py',
-   'PYMODULE'),
-  ('numpy.core._dtype',
-   'c:\\users\\manoj '
-   'nilanga\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\numpy\\core\\_dtype.py',
-   'PYMODULE'),
-  ('numpy.core._type_aliases',
-   'c:\\users\\manoj '
-   'nilanga\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\numpy\\core\\_type_aliases.py',
-   'PYMODULE'),
-  ('numpy.core._string_helpers',
-   'c:\\users\\manoj '
-   'nilanga\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\numpy\\core\\_string_helpers.py',
-   'PYMODULE'),
   ('numpy.lib.utils',
    'c:\\users\\manoj '
    'nilanga\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\numpy\\lib\\utils.py',
@@ -1806,22 +2070,6 @@
   ('numpy.matrixlib.defmatrix',
    'c:\\users\\manoj '
    'nilanga\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\numpy\\matrixlib\\defmatrix.py',
-   'PYMODULE'),
-  ('numpy.dual',
-   'c:\\users\\manoj '
-   'nilanga\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\numpy\\dual.py',
-   'PYMODULE'),
-  ('numpy.core.numeric',
-   'c:\\users\\manoj '
-   'nilanga\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\numpy\\core\\numeric.py',
-   'PYMODULE'),
-  ('numpy.core.arrayprint',
-   'c:\\users\\manoj '
-   'nilanga\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\numpy\\core\\arrayprint.py',
-   'PYMODULE'),
-  ('numpy.core._ufunc_config',
-   'c:\\users\\manoj '
-   'nilanga\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\numpy\\core\\_ufunc_config.py',
    'PYMODULE'),
   ('numpy.ma',
    'c:\\users\\manoj '
@@ -1991,14 +2239,6 @@
    'c:\\users\\manoj '
    'nilanga\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\numpy\\lib\\polynomial.py',
    'PYMODULE'),
-  ('numpy.lib.scimath',
-   'c:\\users\\manoj '
-   'nilanga\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\numpy\\lib\\scimath.py',
-   'PYMODULE'),
-  ('numpy.lib.ufunclike',
-   'c:\\users\\manoj '
-   'nilanga\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\numpy\\lib\\ufunclike.py',
-   'PYMODULE'),
   ('numpy.lib.shape_base',
    'c:\\users\\manoj '
    'nilanga\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\numpy\\lib\\shape_base.py',
@@ -2014,18 +2254,6 @@
   ('numpy.lib.mixins',
    'c:\\users\\manoj '
    'nilanga\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\numpy\\lib\\mixins.py',
-   'PYMODULE'),
-  ('numpy.lib.type_check',
-   'c:\\users\\manoj '
-   'nilanga\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\numpy\\lib\\type_check.py',
-   'PYMODULE'),
-  ('numpy.core.getlimits',
-   'c:\\users\\manoj '
-   'nilanga\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\numpy\\core\\getlimits.py',
-   'PYMODULE'),
-  ('numpy.core.machar',
-   'c:\\users\\manoj '
-   'nilanga\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\numpy\\core\\machar.py',
    'PYMODULE'),
   ('numpy.lib.info',
    'c:\\users\\manoj '
